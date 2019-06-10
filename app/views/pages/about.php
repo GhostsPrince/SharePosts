@@ -54,7 +54,7 @@
                         <img class="card-img-top" src="<?php echo URLROOT; ?>/public/img/Sasha.jpg"
                              alt="Card image cap">
                         <div class="card-body">
-                            <h4>Mr Tumnus</h4>
+                            <h4>Sandro Palavandishvili</h4>
                             <b>Backend Developer</b>
                             <br>
                             <a
